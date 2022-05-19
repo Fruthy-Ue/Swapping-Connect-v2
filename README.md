@@ -11,7 +11,7 @@
     <img src="https://media.discordapp.net/attachments/879497706287017985/965357239462412298/IMG_4821.png?width=703&height=703" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Swapping Connect v2</h3>
 
   <p align="center">
     The best, easiest, safest and fasted way to use plugins!
