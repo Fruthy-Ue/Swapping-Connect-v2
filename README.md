@@ -36,7 +36,6 @@
     <li>
       <a href="#about-the-project">About Swapping Connect v2</a>
       <ul>
-    <li><a href="#getting-started">Getting Started</a>
     <li><a href="#prerequisites">Prerequisites</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#contributing">Contributing</a></li>
@@ -67,10 +66,6 @@ Features:
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-Installing Swapping Connect v2 is a straight forward process, a quick guide can be found below:
 
 ### Prerequisites
 
